@@ -1,0 +1,48 @@
+*{
+    text-decoration: underline;
+}
+/* h3{
+    color: brown;
+    background-color: aquamarine;
+} */
+p{
+    background-color: rgb(159, 226, 43);
+}
+h3,h4{
+    color: brown;
+    background-color: aquamarine;
+}
+h3,h4{
+    color: rgb(42, 165, 112);
+}
+span{
+    color: rgb(5, 5, 117);
+}
+p span{
+    color: bisque;
+}
+header nav a{
+    background-color: rgb(214, 26, 26);
+}
+#bottom{
+    color: rgb(8, 64, 64);
+    background-color: rgb(101, 64, 9);
+}
+.text-cart{
+background-color: aquamarine;
+color: rgb(226, 43, 43);
+}
+.text-cart.big{
+    font-size: 20px;
+}
+ul li:first-child{
+    background-color: rgb(251, 7, 7);
+
+}
+ul li:last-child{
+    background-color: rgb(153, 7, 251);
+    
+}
+ul li:nth-child(3) {
+ background-color: rgb(14, 118, 118);
+}
